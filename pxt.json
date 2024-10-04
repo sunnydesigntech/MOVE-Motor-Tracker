@@ -1,0 +1,15 @@
+{
+    "name": "Reel Rotations Counter",
+    "version": "1.0.0",
+    "description": "A simple extension to count rotations without using the Kitronik Move Motor.",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "main.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "public": true
+}
