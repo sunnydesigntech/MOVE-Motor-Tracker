@@ -1,13 +1,16 @@
 {
-    "name": "Reel Rotations Counter",
+    "name": "MOVE Motor Tracker",
     "version": "1.0.0",
-    "description": "A simple extension to count rotations without using the Kitronik Move Motor.",
+    "description": "A simple extension to track the number of wheel rotations for the Kitronik MOVE Motor.",
     "dependencies": {
         "core": "*"
     },
     "files": [
-        "main.ts"
+        "main.ts",
+        "test.ts"
     ],
+    "icon": "icon.png",
+    "license": "MIT",
     "supportedTargets": [
         "microbit"
     ],
