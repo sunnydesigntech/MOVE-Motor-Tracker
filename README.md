@@ -146,6 +146,10 @@ input.onButtonPressed(Button.AB, function () {
 
 Contributions are welcome! Feel free to submit issues or pull requests to improve this extension.
 
-**Contact**
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
 
 If you have any questions or need further assistance, please feel free to reach out through the GitHub repository.
