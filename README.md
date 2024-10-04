@@ -148,7 +148,7 @@ Contributions are welcome! Feel free to submit issues or pull requests to improv
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]{https://github.com/sunnydesigntech/MOVE-Motor-Tracker/blob/main/LICENSE} file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/sunnydesigntech/MOVE-Motor-Tracker/blob/main/LICENSE) file for details.
 
 ## Contact
 
